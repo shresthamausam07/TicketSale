@@ -1,0 +1,21 @@
+{
+  "name": "ticketsale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "ganache-cli": "^6.12.2",
+    "solc": "^0.8.17",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {
+    "ganache": "^7.9.2",
+    "mocha": "^10.2.0"
+  }
+}
